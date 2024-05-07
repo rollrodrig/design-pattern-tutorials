@@ -1,0 +1,25 @@
+{
+  "name": "design-pattern-tutorials",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "main": "index.js",
+  "scripts": {
+    "test:all": "./node_modules/.bin/jest",
+    "test:singleton": "./node_modules/.bin/jest src/creational/singleton/index.test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rollrodrig/design-pattern-tutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.5"
+  }
+}
