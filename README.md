@@ -35,7 +35,7 @@ Focus on optimizing object creation in software development. They enhance flexib
 
 * Abstract Factory
 * Builder
-* Factory Method
+* [Factory Method](https://github.com/rollrodrig/design-pattern-tutorials/tree/main/src/creational/factory_method)
 * Prototype
 * [Singleton](https://github.com/rollrodrig/design-pattern-tutorials/tree/main/src/creational/singleton)
 
