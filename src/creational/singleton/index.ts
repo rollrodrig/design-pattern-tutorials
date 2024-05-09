@@ -1,3 +1,4 @@
+// @ts-nocheck
 // Class responsable for aws connection  
 export default class AWSDatabase {
     static instance // Store the reference of the instance

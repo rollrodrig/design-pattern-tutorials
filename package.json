@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test:all": "./node_modules/.bin/jest",
-    "test:singleton": "./node_modules/.bin/jest src/creational/singleton/index.test.ts"
+    "test:singleton": "./node_modules/.bin/jest src/creational/singleton/index.test.ts",
+    "test:factory-method": "./node_modules/.bin/ts-node src/creational/factory_method/index.ts",
+    "test:factory-method:test": "./node_modules/.bin/jest src/creational/factory_method/index.test.ts"
   },
   "repository": {
     "type": "git",
